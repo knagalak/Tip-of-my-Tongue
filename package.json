@@ -1,0 +1,20 @@
+{
+  "name": "spbot",
+  "version": "1.0.0",
+  "description": "Bot Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;&amp; exit1",
+    "start": "node app.js"
+  },
+  "author": "Kavya Nagalakunta",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.2",
+    "body-parser": "^1.17.2",
+    "datamuse": "^1.0.5",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8",
+    "request": "^2.81.0"
+  }
+}

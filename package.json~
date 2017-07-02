@@ -1,0 +1,12 @@
+{
+  "name": "spbot",
+  "version": "1.0.0",
+  "description": "Bot Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;&amp; exit1"
+"start": "node app.js"
+  },
+  "author": "Kavya Nagalakunta",
+  "license": "ISC"
+}
