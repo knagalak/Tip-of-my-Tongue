@@ -2,7 +2,7 @@
 
 ### Tip of my Tongue was one of the Top 12 hacks at <a href="https://devpost.com/software/tip-of-my-tongue">MHacks Nano</a>. I worked on the project by myself.
 
-<img src = "https://github.com/knagalak/Tip-of-my-Tongue/blob/master/images/logo.png" height="568" width="320">
+<img src = "https://github.com/knagalak/Tip-of-my-Tongue/blob/master/images/logo.png">
 
 ## The Birth of my Tongue aka Inspiration
 Everyone comes across a situation while messaging or sending an email where you just cannot seem to find the right set of words. For me, at least, I sometimes can't think of a specific word for a couple of days and I always wished there was something to help me out. A thesaurus can only help me to an extent and sometimes it is never specific. Well, Tip of my Tongue is here to solve my problem and yours too!
